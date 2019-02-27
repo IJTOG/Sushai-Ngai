@@ -1,0 +1,13 @@
+import controllers from './controllers'
+export function setup(router){
+        router
+            .get('/',controllers.getAll)
+            .get('/qty',controllers.getQtyPerDay)
+            .get('/:id',controllers.getById)
+            .post('/create',controllers.create)
+            .put('/edit/:id',controllers.editById)
+            .delete('/delete/:id',controllers.deleteById)
+            
+
+
+}

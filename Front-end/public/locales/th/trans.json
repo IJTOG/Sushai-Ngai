@@ -1,0 +1,15 @@
+{
+	"home-navbar-home" : "หน้าหลัก",
+	"home-navbar-menu" : "รายการ",
+	"home-navbar-about" : "เกี่ยวกับเรา",
+	"home-navbar-contact" : "ติดต่อ",
+	"home-navbar-lang-th" : "ไทย",
+	"home-navbar-lang-en" : "อังกฤษ",
+	"home-howto-howitwork" : "สั่งซื้อยังไง?",
+	"home-howto-login" : "ล็อกอินก่อน",
+	"home-howto-choosemenu" : "รายการอาหาร",
+	"home-howto-location" : "เลือกสถานที่ส่ง",
+	"home-howto-confirm" : "ยืนยันสินค้า",
+	"home-howto-delivery" : "ส่งถึงที่ !!",
+	"home-delivery" : "บริการจัดส่ง Sushi ถึงบ้านคุณ"
+}

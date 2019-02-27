@@ -1,0 +1,15 @@
+{
+	"home-navbar-home" : "Home",
+	"home-navbar-menu" : "Menu",
+	"home-navbar-about" : "About Us",
+	"home-navbar-contact" : "Contact",
+	"home-navbar-lang-th" : "th",
+	"home-navbar-lang-en" : "en",
+	"home-howto-howitwork" : "How it Work?",
+	"home-howto-login" : "login",
+	"home-howto-choosemenu" : "Choose Menu",
+	"home-howto-location" : "Location",
+	"home-howto-confirm" : "Confirm Order",
+	"home-howto-delivery" : "Delivery!!",
+	"home-delivery" : "Delivery to your home"
+}

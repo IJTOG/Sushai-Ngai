@@ -1,0 +1,6 @@
+export {default as User } from './User'
+export {default as Product } from './Product'
+export {default as Category } from './Category'
+export {default as Gallery } from './Gallery'
+export {default as Bill } from './Bill'
+export {default as List} from './List'
